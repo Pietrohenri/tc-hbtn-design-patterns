@@ -1,4 +1,4 @@
-package personagembuilder;
+
 
 public class Mago extends Personagem {
 

@@ -1,4 +1,4 @@
-package personagembuilder;
+
 
 public class MagoBuilder implements Builder{
     String nome;

@@ -1,4 +1,4 @@
-package personagembuilder;
+
 
 public abstract class Personagem {
     String nome;
