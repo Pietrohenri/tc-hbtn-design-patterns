@@ -1,4 +1,5 @@
 
+
 public class SalarioService {
     private CalculadorSalarioService calculador = CalculadorSalarioService.getCalculadorSalarioService();
 
@@ -7,5 +8,7 @@ public class SalarioService {
 
     }
 
-
+    public UUID getUuid(){
+        return UUID.randomUUID();
+    }
 }
