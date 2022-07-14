@@ -1,4 +1,6 @@
+package salario;
 
+import java.util.UUID;
 
 public class SalarioService {
     private CalculadorSalarioService calculador = CalculadorSalarioService.getCalculadorSalarioService();
