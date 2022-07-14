@@ -1,4 +1,4 @@
-package salario;
+
 import java.util.UUID;
 
 public class CalculadorSalarioService {
