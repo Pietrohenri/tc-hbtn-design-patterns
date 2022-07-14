@@ -1,8 +1,5 @@
 
-
-import java.util.UUID;
-
-public class CalculadorSalarioService {
+public class SalarioService {
     private CalculadorSalarioService calculador = CalculadorSalarioService.getCalculadorSalarioService();
 
     public double calcular(double salarioBruto, double valorDescontos, double valorVendas, double percentualComissao){
@@ -10,7 +7,5 @@ public class CalculadorSalarioService {
 
     }
 
-    public UUID getUuid(){
-        return UUID.randomUUID();
-    }
+
 }
