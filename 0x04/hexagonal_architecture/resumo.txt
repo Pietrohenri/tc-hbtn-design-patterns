@@ -1,0 +1,32 @@
+O que é Arquitetura Hexagonal e por quem ela foi criada ?
+O conceito de Arquitetura Hexagonal foi proposto por Alistair Cockburn,
+em meados dos anos 90, em um artigo postado na primeira wiki que foi
+desenvolvida, chamada WikiWikiWeb (cujos artigos tratavam principalmente
+de temas relacionados com Engenharia de Software).
+Os objetivos de uma Arquitetura Hexagonal são parecidos com os de uma
+Arquitetura Limpa, tal como descrevemos em um outro artigo. Mas, para
+reforçar, a ideia é construir sistemas que favorecem reusabilidade de código,
+alta coesão, baixo acoplamento, independência de tecnologia e que são mais
+fáceis de serem testados.
+Quais são os benefícios e recursos que Arquitetura Hexagonal fornece?
+Solução de Serviços Externos Independentes
+Possibilita adiar algumas decisões técnicas
+Criação e substituição de adaptadores
+Fácil de testar a aplicação
+Tecnologias fáceis de trocar
+
+
+Quais as diferenças entre Arquitetura Hexagonal e Clean Architecture ?
+Assemelha-se à proposta da Hexagonal Architecture, mas segue a linha
+proposta por outro padrão, o Onion architecture. É outra forma de representar
+a hierarquia entre as camadas, mas mantendo as premissas de isolamento e
+inversão de dependências.
+
+Na sua opinião, a Arquitetura Hexagonal pode ser utilizada em qualquer tipo de projeto ?
+Quais informações devem ser consideradas antes de desenvolver sistemas usando esse padrão de projeto ?
+Como vimos, a arquitetura hexagonal possui inúmeras vantagens, porém não são em todos os casos que realmente
+valerá a pena sua utilização.Em sistemas muito pequenos ou que dificilmente irá gerar trabalho de
+manutenção/novas features talvez não seja tão interessante o custo-benefício de sua implementação,
+já que demanda um alto grau de esforço de desenvolvimento.Como em todos os casos no nosso cotidiano,
+deve ser feita uma análise de viabilidade, já que podem haver formas mais eficazes de resolver o
+mesmo problema.
