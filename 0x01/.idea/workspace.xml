@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7626812a-e3b0-4d52-bffa-6e33d923f17c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cafeteria/Bebida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/tc-hbtn-design-patterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/tc-hbtn-design-patterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/Guerreiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/Guerreiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/GuerreiroBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/GuerreiroBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/Ladrao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/Ladrao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/LadraoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/LadraoBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/Mago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/MagoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/MagoBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/Personagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x00/personagembuilder/TipoPersonagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../0x00/personagembuilder/TipoPersonagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salario/CalculadorSalarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/salario/CalculadorSalarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salario/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/salario/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salario/SalarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/salario/SalarioService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BwbPRrnGD6WAxq2UrQeulNvwl6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/pietros/tc-hbtn-design-patterns/0x01/cafeteria"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7626812a-e3b0-4d52-bffa-6e33d923f17c" name="Changes" comment="" />
+      <created>1657820069633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657820069633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

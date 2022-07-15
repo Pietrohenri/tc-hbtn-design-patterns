@@ -1,4 +1,4 @@
-
+package cafeteria;
 
 import java.util.Locale;
 
